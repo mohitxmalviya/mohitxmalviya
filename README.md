@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MOHIT-4o4&theme=buefy)
+
+![Years Badge](https://badges.pufler.dev/years/MOHIT-4o4)
+![Repos Badge](https://badges.pufler.dev/repos/MOHIT-4o4)
