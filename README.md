@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 <a href="https://app.daily.dev/Mohit_404"><img src="https://api.daily.dev/devcards/94a86556ace648df8d9bdbc1e389e75a.png?r=a6o" width="400" alt="Mohit's Dev Card"/></a>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohit-Malviya&show_icons=true&theme=tokyonight)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohit-Malviya&show_icons=true&theme=graywhite)
