@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <a><img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHIT-4o4&theme=buefy"></a>
-<a><img src ="https://github-readme-stats.vercel.app/api?username=MOHIT-4o4&show_icons=true&theme=tokyonight" width="470"></a>
+<a><img src ="https://github-readme-stats.vercel.app/api?username=MOHIT-4o4&show_icons=true&theme=tokyonight"></a>
 
   
   
