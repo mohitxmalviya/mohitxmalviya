@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://app.daily.dev/Mohit_404"><img src="https://api.daily.dev/devcards/94a86556ace648df8d9bdbc1e389e75a.png?r=a6o" width="420" alt="Mohit's Dev Card"/></a>
+<a href="https://app.daily.dev/Mohit_404"><img src="https://api.daily.dev/devcards/94a86556ace648df8d9bdbc1e389e75a.png?r=a6o" width="390" alt="Mohit's Dev Card"/></a>
 
 
-<a><img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHIT-4o4&theme=buefy" height="410" width ="420"></a>
+<!-- <a><img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHIT-4o4&theme=buefy" height="310" width ="320"></a> -->
   
   
   All Languages : 
